@@ -1,0 +1,26 @@
+{
+  "merchant": "LUMINA WORLD",
+  "tanggal": "2023-10-05",
+  "item": [
+    {
+      "nama": "Buku",
+      "harga": 2000,
+      "jumlah": 1,
+      "subtotal": 2000
+    },
+    {
+      "nama": "Pulpen",
+      "harga": 3000,
+      "jumlah": 1,
+      "subtotal": 3000
+    },
+    {
+      "nama": "Tas",
+      "harga": 5000,
+      "jumlah": 1,
+      "subtotal": 5000
+    }
+  ],
+  "pajak": 0,
+  "total": 10000
+}
